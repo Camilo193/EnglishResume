@@ -25,7 +25,6 @@ body {
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
-  text-shadow: 1px 1px 1px#555555;
 }
 
 .bold-name {
@@ -34,7 +33,6 @@ body {
   text-transform: uppercase;
   color: #fff;
   text-align: center;
-  text-shadow: 2px 2px 2px #555555;
   margin-bottom: 5%;
 }
 
@@ -71,7 +69,6 @@ body {
   border-radius: 60%;
   background-size: 100% auto;
   text-align: center;
-  box-shadow: 2px 2px 2px 2px#555555;
 }
 
 .resume .resume_left .resume_content {
@@ -93,7 +90,6 @@ body {
 .resume .resume_item {
   padding: 25px 0;
   border-bottom: 2px solid #b1eaff;
-  text-align: justify;
 }
 
 .resume .resume_left .resume_item:last-child,
@@ -258,8 +254,8 @@ body {
   content: "";
   position: absolute;
   top: 40px;
-  right: -52px;
-  width: 50px;
+  right: -130px;
+  width: 130px;
   height: 2px;
   background: #0bb5f4;
 }
